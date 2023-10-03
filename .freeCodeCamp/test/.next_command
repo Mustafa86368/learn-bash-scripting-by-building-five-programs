@@ -69,3 +69,7 @@ man if
 help --if
 help if
 ./countdown.sh arg1
+arg1
+./countdown.sh arg1
+echo arg1
+./countdown.sh arg2
