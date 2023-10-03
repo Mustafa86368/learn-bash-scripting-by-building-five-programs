@@ -65,3 +65,4 @@ chmod +x countdown.sh
 man help
 help man
 help
+man if
