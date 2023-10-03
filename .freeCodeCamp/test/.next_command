@@ -50,3 +50,4 @@ man echo
 echo -e \n~~ Questionnaire ~~\n
 echo -e \n~~ Questionnaire ~~\n
 echo -e \n~~ Questionnaire ~~\n
+./questionnaire.sh
