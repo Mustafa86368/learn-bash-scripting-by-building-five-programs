@@ -244,3 +244,5 @@ __vsc_prompt_cmd_original
 ./bingo.sh
 ./bingo.sh
 touch fortune.sh
+fortune.sh +x chmod
+chmod +x fortune.sh
