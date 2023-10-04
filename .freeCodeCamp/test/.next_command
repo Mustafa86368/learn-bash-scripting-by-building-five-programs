@@ -287,3 +287,4 @@ Type [[ $VAR == "hello world" ]]
 [[ $VAR =~ \?$ ]]
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+./fortune.sh
