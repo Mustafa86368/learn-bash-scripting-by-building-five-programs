@@ -269,3 +269,5 @@ help until
 help [[
 [[ -n ... ]]
 [[ hello == hello ]]
+[[ hello == word ]]
+[[ hello == world ]]
