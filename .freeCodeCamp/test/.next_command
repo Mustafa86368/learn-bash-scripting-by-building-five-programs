@@ -87,3 +87,4 @@ help test
 __vsc_prompt_cmd_original
 echo $?
 [[ 4 -ge 5 ]]
+echo $?
