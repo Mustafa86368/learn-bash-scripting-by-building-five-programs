@@ -280,3 +280,7 @@ VAR=hello world
 VAR="hello world"
 __vsc_prompt_cmd_original
 echo $VAR
+__vsc_prompt_cmd_original
+[[ "hello world" == $VAR ]]
+Type [[ $VAR == "hello world" ]]
+[[ $VAR == "hello world" ]]
