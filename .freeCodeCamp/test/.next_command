@@ -247,3 +247,4 @@ touch fortune.sh
 fortune.sh +x chmod
 chmod +x fortune.sh
 ./fortune.sh
+ARR=("a" "b" "c")
