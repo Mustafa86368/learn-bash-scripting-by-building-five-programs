@@ -292,3 +292,4 @@ Type [[ $VAR == "hello world" ]]
 __vsc_prompt_cmd_original
 ./fortune.sh
 ./fortune.sh
+./fortune.sh
