@@ -285,3 +285,5 @@ __vsc_prompt_cmd_original
 Type [[ $VAR == "hello world" ]]
 [[ $VAR == "hello world" ]]
 [[ $VAR =~ \?$ ]]
+[[ $VAR =~ \?$ ]]
+[[ test? =~ \?$ ]]
