@@ -250,3 +250,6 @@ chmod +x fortune.sh
 ARR=("a" "b" "c")
 __vsc_prompt_cmd_original
 echo ${ARR[1]}
+echo $@
+echo $*
+echo ${ARR[@]}
