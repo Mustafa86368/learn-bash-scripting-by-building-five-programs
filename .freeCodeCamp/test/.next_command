@@ -257,3 +257,4 @@ declare -p
 declare -p $ARR
 declare -p Arr
 declare -p ARR
+./fortune.sh
