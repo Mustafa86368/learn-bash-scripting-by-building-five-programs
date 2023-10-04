@@ -146,3 +146,5 @@ bingo.sh chmod +x
 chmod +x countdown.sh
 chmod +x bingo.sh
 ./bingo.sh
+prinzenv
+printenv
