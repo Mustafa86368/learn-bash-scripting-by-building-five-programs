@@ -180,3 +180,4 @@ echo $J
 declare -p
 declare -p
 declare -p J
+declare -p RANDOM
