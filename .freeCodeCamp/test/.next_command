@@ -109,3 +109,4 @@ help [[ expression ]]
 1
 1
 ./countdown.sh 0
+help
