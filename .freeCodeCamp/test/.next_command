@@ -145,3 +145,4 @@ touch bingo.sh
 bingo.sh chmod +x
 chmod +x countdown.sh
 chmod +x bingo.sh
+./bingo.sh
